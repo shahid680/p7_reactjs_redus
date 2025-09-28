@@ -1,0 +1,1 @@
+npm install @reduxjs/toolkit@^2.8.2 react-redux@^9.2.0 react-router-dom@^7.8.1
